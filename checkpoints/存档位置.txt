@@ -1,0 +1,6 @@
+按 Win+R 运行下面这行代码：
+%UserProfile%\AppData\LocalLow\GameCreatorNeko\WomanCommunication
+
+完整路径为：
+C:\Users\你的用户名\AppData\LocalLow\GameCreatorNeko\WomanCommunication
+AppData 文件夹默认是隐藏的。
